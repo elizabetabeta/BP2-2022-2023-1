@@ -21,4 +21,3 @@ Izgled relacijskog modela baze podataka:
 
 ![ERD](petsmodel.png)
 
-Aplikacija kroz MySQL bazu podataka osigurava trajnost podataka, a kroz Redis sustav osigurava cache-ing za brzo dohvaćanje podataka. Za komunikaciju u stvarnom vremenu korištena je Kafka.

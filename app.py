@@ -144,7 +144,7 @@ def edit_breed():
     kind_id = request.form.get("kind_id")
 
     if id:  
-        breed = session.query(breed).get(id)
+        breed = session.query(Breed).get(id)
         if breed:  
             if name: 
                 breed.name = name
