@@ -15,7 +15,7 @@ Korištene tehnologije u ovome projektu su:
 - Docker,
 - JQuery.
 
-Kafka i JQuery su korišteni u pets, kinds i breeds za dodavanje podataka u stvarnom vremenu bez osvježavanja stranice tako da svi korisnici mogu vidjeti nove podatke u stvarnom vremenu, a redis za brže dohvaćanje podataka i manje opterećivanje sustava.
+Kafka i JQuery su korišteni u pets, kinds i breeds za dodavanje podataka u stvarnom vremenu bez osvježavanja stranice tako da svi korisnici mogu vidjeti nove podatke, a redis za brže dohvaćanje podataka i manje opterećivanje sustava.
 
 Izgled relacijskog modela baze podataka:
 
