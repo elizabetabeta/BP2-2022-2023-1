@@ -11,6 +11,7 @@ services:
       - kafka
     networks:
       - bpnet
+    platform: linux/x86_64
     restart: always
   redis:
     image: redis
